@@ -1,4 +1,5 @@
 #Versioning Virtual File System (using FUSE)
+============================================
 
 Based on a passthrough file system (`mirrorfs.c`) code by Prof. Scott Kaplan.
 Modified into a versioning file system by me.
